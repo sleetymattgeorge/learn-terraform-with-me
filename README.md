@@ -1,2 +1,4 @@
-# learn-terraform-with-me
-just a lil repo that i made to learn terraform
+# Terraform - Sleety's POV
+# Resources
+- [Youtube](https://www.youtube.com/watch?v=YcJ9IeukJL8)
+- [KodeKloud](https://learn.kodekloud.com/user/courses/udemy-labs-terraform-for-beginners/)
