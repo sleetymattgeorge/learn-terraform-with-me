@@ -5,7 +5,7 @@
 
 # hcl syntax
 ```hcl
-<block><parameter>{
+<block> <parameter> {
     key=value
 }
 ```
