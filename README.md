@@ -1,4 +1,5 @@
-# Terraform - Sleety's POV
+# Terraform - Sleety's POV.
+> be prepared for funny markdown
 - HCL: Hashicorp Configuration Language
 - .tf - terraform configuration files
 - .tfstate - records infrastructure state to match the defined state
